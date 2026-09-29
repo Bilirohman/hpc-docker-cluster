@@ -1,0 +1,8 @@
+* text=auto
+*.sh          text eol=lf
+*.conf        text eol=lf
+*.c           text eol=lf
+*.yml         text eol=lf
+Dockerfile    text eol=lf
+hostfile      text eol=lf
+.env          text eol=lf
